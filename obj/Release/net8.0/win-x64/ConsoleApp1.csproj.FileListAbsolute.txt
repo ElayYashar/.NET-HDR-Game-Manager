@@ -1,0 +1,14 @@
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\win-x64\ConsoleApp1.exe
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\win-x64\ConsoleApp1.deps.json
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\win-x64\ConsoleApp1.runtimeconfig.json
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\win-x64\ConsoleApp1.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\win-x64\ConsoleApp1.pdb
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.AssemblyInfo.cs
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\refint\ConsoleApp1.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.pdb
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ConsoleApp1.genruntimeconfig.cache
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\win-x64\ref\ConsoleApp1.dll

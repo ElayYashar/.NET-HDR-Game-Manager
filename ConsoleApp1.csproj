@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <!-- <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup> -->
+
+    <PropertyGroup>
+    <OutputType>WinExe</OutputType> <!-- WinExe allows to run application without CMD window -->
+    <TargetFramework>net8.0-windows</TargetFramework> <!-- Note the '-windows' suffix -->
+    <UseWindowsForms>true</UseWindowsForms>
+      <!-- Sets the file icon for the compiled .exe -->
+    <ApplicationIcon>app1.ico</ApplicationIcon>
+  </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Text.Json" Version="10.0.11" />
+    </ItemGroup>
+
+</Project>

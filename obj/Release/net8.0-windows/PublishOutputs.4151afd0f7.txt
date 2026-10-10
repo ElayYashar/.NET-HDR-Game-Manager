@@ -1,0 +1,9 @@
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\ConsoleApp1.exe
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\ConsoleApp1.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\ConsoleApp1.deps.json
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\ConsoleApp1.runtimeconfig.json
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\ConsoleApp1.pdb
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\System.IO.Pipelines.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\System.Text.Encodings.Web.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\System.Text.Json.dll
+D:\Elay\Software\HDR Manager C#\ConsoleApp1\ConsoleApp1\bin\Release\net8.0-windows\publish\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll

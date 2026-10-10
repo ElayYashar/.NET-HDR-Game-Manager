@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxbnfnURQ0Y=",
+  "success": true,
+  "projectFilePath": "D:\\Elay\\Software\\HDR Manager C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elay\\.nuget\\packages\\system.io.pipelines\\10.0.11\\system.io.pipelines.10.0.11.nupkg.sha512",
+    "C:\\Users\\Elay\\.nuget\\packages\\system.text.encodings.web\\10.0.11\\system.text.encodings.web.10.0.11.nupkg.sha512",
+    "C:\\Users\\Elay\\.nuget\\packages\\system.text.json\\10.0.11\\system.text.json.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
