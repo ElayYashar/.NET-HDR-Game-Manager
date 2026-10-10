@@ -23,5 +23,10 @@ When multiple listed programs run in the background, HDR will not turn off until
 
 ---
 
+> [!info] Here's a callout title
+> Here's a callout block.
+> It supports **Markdown**, [[Internal link|Wikilinks]], and [[Embed files|embeds]]!
+> ![[Engelbart.jpg]]
+
 > Programs Save Location
 > C:\Users\"User"\AppData\Local\HDRManager\apps.json
