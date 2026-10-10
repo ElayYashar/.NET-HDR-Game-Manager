@@ -29,4 +29,6 @@ When multiple listed programs run in the background, HDR will not turn off until
 **Apps Save Location**
 C:\Users\"User"\AppData\Local\HDRManager\apps.json
 
+Requires .NET 8.0 installed.
+
 <img width="498" height="615" alt="image" src="https://github.com/user-attachments/assets/ede35cbc-02c5-420c-913e-de3f1dc7cf4f" />
